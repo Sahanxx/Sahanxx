@@ -9,7 +9,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahanxx&show_icons=true&locale=en&theme=transparent" alt="sahanxx" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanxx&theme=transparent" alt="sahanxx" />
-</p>
